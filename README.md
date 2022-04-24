@@ -5,6 +5,12 @@
   <img src="https://user-images.githubusercontent.com/93082548/164978757-a4ebf808-fb5f-44bc-860e-613bb6321ac2.gif" alt="Sublime's custom image"/>
 </p>
 
+# About
+<br>
+
+- 🌱 I’m currently pursuing at Sri Venkateswara College of Engineering
+- 🧑‍🎓 B.Tech Information Technology-Sophomore 
+- 🔭 I’m currently working on Full Stack Development and Machine Learning
 
 ### Connect with Me:
 <br>
@@ -22,11 +28,7 @@
 </a>
 
 <br>
-<br>
 
-- 🌱 I’m currently pursuing at Sri Venkateswara College of Engineering
-- 🧑‍🎓 B.Tech Information Technology-Sophomore 
-- 🔭 I’m currently working on Full Stack Development and Machine Learning
 
 # Experience
 <br>
@@ -39,6 +41,7 @@
  
  
 # Stats and Streak
+<br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHETH-S&theme=radical)
 <br>
