@@ -1,6 +1,11 @@
 # Hello there, I'm ROHETH S 👋
 <br>
 
+<p align="center">
+  <img src="https://github.com/LakshmiNarayanan2003/LakshmiNarayanan2003/blob/master/readme.gif" alt="Sublime's custom image"/>
+</p>
+
+
 ### Connect with me:
 <br>
 <a href="https://www.linkedin.com/in/roheth-s-1541a7212/">
