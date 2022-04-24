@@ -12,7 +12,7 @@
 - 🧑‍🎓 B.Tech Information Technology-Sophomore 
 - 🔭 I’m currently working on Full Stack Development and Machine Learning
 
-### Connect with Me:
+# Connect with Me:
 <br>
 
 <a href="mailto:roheth1908@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
