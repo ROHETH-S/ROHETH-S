@@ -19,8 +19,8 @@
 <a href="https://twitter.com/thisisroheth">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/roheth-s-1541a7212">![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-
-<br>
+#Languages and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 
 # Experience
