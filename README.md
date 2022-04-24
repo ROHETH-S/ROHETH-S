@@ -28,6 +28,16 @@
 - 🧑‍🎓 B.Tech Information Technology-Sophomore 
 - 🔭 I’m currently working on Full Stack Development and Machine Learning
 
+# Experience
+<br>
+
+✨AICL Training (Oct-2021)
+ Web Design project Intern 
+ 
+ ✨Verzeo(Oct-Nov-2021)
+ Machine Leaning project Intern 
+ 
+ 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHETH-S&theme=radical)
 <br>
