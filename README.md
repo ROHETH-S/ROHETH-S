@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/LakshmiNarayanan2003/LakshmiNarayanan2003/blob/master/readme.gif" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/93082548/164978653-c8d964b0-0217-4438-bf0f-53b98ca5c08f.gif" alt="Sublime's custom image"/>
 </p>
 
 
