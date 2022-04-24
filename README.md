@@ -6,7 +6,7 @@
 </p>
 
 
-### Connect with me:
+### Connect with Me:
 <br>
 <a href="https://www.linkedin.com/in/roheth-s-1541a7212/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -38,6 +38,7 @@
  Machine Leaning project Intern 
  
  
+# Stats and Streak
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHETH-S&theme=radical)
 <br>
