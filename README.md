@@ -31,7 +31,5 @@
 ![ROHETH's github stats](https://github-readme-stats.vercel.app/api?username=ROHETH-S&show_icons=true&theme=tokyonight)
 
 
-![ROHETH's github streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshmiNarayanan2003&theme=radical&include_all_commits=true&count_private=true)
 
-![Github ](https://komarev.com/ghpvc/?username=LakshmiNarayanan2003&color=blueviolet)
 
