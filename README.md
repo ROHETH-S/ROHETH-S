@@ -28,7 +28,8 @@
 - 🧑‍🎓 B.Tech Information Technology-Sophomore 
 - 🔭 I’m currently working on Full Stack Development and Machine Learning
 
-![ROHETH's github stats](https://github-readme-stats.vercel.app/api?username=ROHETH-S&show_icons=true&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHETH-S&theme=radical)
 
 
 
