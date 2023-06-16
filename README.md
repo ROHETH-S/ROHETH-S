@@ -9,7 +9,7 @@
 <br>
 
 - 🌱 I’m currently pursuing at Sri Venkateswara College of Engineering
-- 🧑‍🎓 B.Tech Information Technology-Sophomore 
+- 🧑‍🎓 B.Tech Information Technology
 - 🔭 I’m currently working on Full Stack Development and Machine Learning
 
 # Connect with Me:
