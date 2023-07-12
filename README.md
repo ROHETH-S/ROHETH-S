@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently pursuing at Sri Venkateswara College of Engineering
 - 🧑‍🎓 B.Tech Information Technology
-- 🔭 I’m currently working on Full Stack Development and Machine Learning
+- 🔭 I’m currently working on Data Analyst, Data Engineering and Machine Learning
 
 # Connect with Me:
 <br>
@@ -40,6 +40,9 @@
  
  ✨Verzeo(Oct-Nov-2021)
  Machine Leaning project Intern 
+
+ ✨Research Intern(Jul-Aug-2022)
+ Automatic Crop Irrigation and Recommendation System
  
  
 # Stats and Streak
