@@ -12,13 +12,13 @@
 
 ## Experience
 
-✨Research Intern(Jul-Aug-2022) - Automatic Crop Irrigation and Recommendation System, Worked on the project "Automatic Irrigation System with Crop Recommendation System" with Machine Learning and IOT.
+✨Research Intern SSN(Jul-Aug-2022) - Automatic Crop Irrigation and Recommendation System, Worked on the project "Automatic Irrigation System with Crop Recommendation System" with Machine Learning and IOT.
 
 ✨Implant Trainee Hanon Systems(Aug 2022) - Learned about the implementation of modern technologies in industries, processes, and workflows.
 
 ✨Verzeo(Oct-Nov-2021) - Machine Leaning project Intern, Worked on Creating ML Model for classifying reviews using NLP (Sentimental Analysis).
 
-✨AICL Training (Oct-2021) - Web Design project Intern, Worked on Creating Responsive Website with HTML and CSS. 
+✨AICL Training(Oct-2021) - Web Design project Intern, Worked on Creating Responsive Website with HTML and CSS. 
 
 
 ## Skills
