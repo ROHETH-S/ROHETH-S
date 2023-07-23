@@ -42,7 +42,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHETH-S&)](https://git.io/streak-stats)
 <br>
-![Github ](https://komarev.com/ghpvc/?username=ROHETH-S&color=blueviolet)
+![Github ](https://komarev.com/ghpvc/?username=ROHETH-S&)
 
 
 
