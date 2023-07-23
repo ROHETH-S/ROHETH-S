@@ -22,7 +22,7 @@
 
 
  
-# Connect with Me:
+## Connect with Me:
 <br>
 
 <a href="mailto:roheth1908@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
@@ -32,18 +32,17 @@
 
 
  
-# Stats and Streak
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHETH-S&theme=radical)
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHETH-S&theme=dark)](https://git.io/streak-stats)
-<br>
-![Github ](https://komarev.com/ghpvc/?username=ROHETH-S&color=blueviolet)
+## Stats and Streak
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ROHETH-S&show_icons=true&locale=en&layout=compact"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ROHETH-S&show_icons=true&locale=en" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHETH-S&theme=dark)](https://git.io/streak-stats)
+<br>
+![Github ](https://komarev.com/ghpvc/?username=ROHETH-S&color=blueviolet)
+
+
 
 
