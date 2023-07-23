@@ -21,6 +21,15 @@
 ✨AICL Training (Oct-2021) - Web Design project Intern, Worked on Creating Responsive Website with HTML and CSS. 
 
 
+## Skills
+
+| Programming Languages |    Technologies     |
+|-----------------------|---------------------|
+| C                     | Machine Learning    |
+| C++                   | Data Visualization  |
+| Python                | Data Engineering    |
+| JavaScript            | Web Development     |
+| Java                  | IOT
  
 ## Connect with Me:
 <br>
