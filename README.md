@@ -42,6 +42,8 @@
 ![Github ](https://komarev.com/ghpvc/?username=ROHETH-S&color=blueviolet)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ROHETH-S&show_icons=true&locale=en&layout=compact"/></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ROHETH-S&show_icons=true&locale=en" /></p>
 
 
