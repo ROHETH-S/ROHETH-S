@@ -29,7 +29,7 @@
 | C++                   | Data Visualization  |
 | Python                | Data Engineering    |
 | JavaScript            | Web Development     |
-| Java                  | IOT
+| Java                  | Mysql, MongoDB      |
  
 ## Connect with Me:
 <br>
