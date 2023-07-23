@@ -39,7 +39,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ROHETH-S&show_icons=true&locale=en" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHETH-S&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHETH-S&)](https://git.io/streak-stats)
 <br>
 ![Github ](https://komarev.com/ghpvc/?username=ROHETH-S&color=blueviolet)
 
