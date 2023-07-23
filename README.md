@@ -1,17 +1,27 @@
-# Hello there, I'm ROHETH S 👋
-<br>
+## Hey there! Welcome to my GitHub 👋
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/93082548/164978757-a4ebf808-fb5f-44bc-860e-613bb6321ac2.gif" alt="Sublime's custom image"/>
-</p>
+🖖Greetings! I'm a data aficionado with a keen interest in data science, machine learning, and web development. My world revolves around playing with data and crafting exciting projects. Join me on this data-driven journey! 🚀
 
-# About
-<br>
+## About
 
-- 🌱 I’m currently pursuing at Sri Venkateswara College of Engineering
+🎯 I'm a hardworking and sincere individual who has a relentless passion for learning new technologies. My adaptability allows me to thrive in diverse environments!🌟
+
+- 🌱 Final year at Sri Venkateswara College of Engineering (SVCE)
 - 🧑‍🎓 B.Tech Information Technology
 - 🔭 I’m currently working on Data Analyst, Data Engineering and Machine Learning
 
+## Experience
+
+✨Research Intern(Jul-Aug-2022) - Automatic Crop Irrigation and Recommendation System, Worked on the project "Automatic Irrigation System with Crop Recommendation System" with Machine Learning and IOT.
+
+✨Implant Trainee Hanon Systems(Aug 2022) - Learned about the implementation of modern technologies in industries, processes, and workflows.
+
+✨Verzeo(Oct-Nov-2021) - Machine Leaning project Intern, Worked on Creating ML Model for classifying reviews using NLP (Sentimental Analysis).
+
+✨AICL Training (Oct-2021) - Web Design project Intern, Worked on Creating Responsive Website with HTML and CSS. 
+
+
+ 
 # Connect with Me:
 <br>
 
@@ -19,30 +29,8 @@
 <a href="https://twitter.com/thisisroheth">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/roheth-s-1541a7212">![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-# Languages and Tools
-
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-
-# Experience
-<br>
-
-✨AICL Training (Oct-2021)
- Web Design project Intern 
- 
- ✨Verzeo(Oct-Nov-2021)
- Machine Leaning project Intern 
-
- ✨Research Intern(Jul-Aug-2022)
- Automatic Crop Irrigation and Recommendation System
- 
  
 # Stats and Streak
 <br>
